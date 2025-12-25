@@ -1,4 +1,4 @@
-Library Management System - Web API
+# Library Management System - Web API
 A backend-only ASP.NET Core Web API for managing books and authors in a library system. Built with clean architecture principles, it’s designed for scalability and easy extension into a full-stack application.
 Features
 
